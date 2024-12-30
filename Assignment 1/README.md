@@ -152,7 +152,7 @@ It periodically executes a timer function, which handles the operating mode of t
     - `op_mode == false`: the camera compensates its orientation based on the angular velocity of the robot's chassis, and publishes the goal angle.
 
 ## Installation and running 
-1) Download the repository inside your workspace with: `git clone https://github.com/S4479444/ExpRo/tree/main/Assignment%201`
+1) Download the repository inside your workspace with: `git clone https://github.com/S4479444/ExpRo.git`
 
 2) From the root directory of ROS2 workspace, run: `colcon build`
 
