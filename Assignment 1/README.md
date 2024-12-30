@@ -4,9 +4,13 @@
 ## Description
 The assignment consisted in the control of a mobile robot with ROS2, which is embedded in a 3D environment simulator called Gazebo.
 The goal is to make the robot move around, and reach four markers in a specified order; in particular, each marker has a corresponding action to-be-performed by the robot, namely:
-1 - marker 11: rotate until find marker 12, then reach it;
-2 - marker 12: rotate until find marker 13, then reach it;
-3 - marker 13: rotate until find marker 15, then reach it;
+
+1 - marker 11: rotate until find marker 12, then reach it.
+
+2 - marker 12: rotate until find marker 13, then reach it.
+
+3 - marker 13: rotate until find marker 15, then reach it.
+
 4 - marker 15: objective completed.
 
 
