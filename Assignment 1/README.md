@@ -1,9 +1,5 @@
-# -------------------------------------------------------------------------------------------------------------------------------------------------------------- #
-# -                                                                EXPERIMENTAL ROBOTICS LABORATORY                                                            - #
-# -------------------------------------------------------------------------------------------------------------------------------------------------------------- #
-# -                                                  Assignment 1 - Emanuele Giordano - S4479444@studenti.unige.it                                             - #
-# -------------------------------------------------------------------------------------------------------------------------------------------------------------- #
-
+# EXPERIMENTAL ROBOTICS LABORATORY #
+# Assignment 1 - Emanuele Giordano - S4479444@studenti.unige.it #
 
 ## Description
 The assignment consisted in the control of a mobile robot with ROS2, which is embedded in a 3D environment simulator called Gazebo.
